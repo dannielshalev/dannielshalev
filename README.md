@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and python coding
 - 🌱 I’m currently learning K8
 - 💞️ I’m looking to contribute to open source projects
-- 📫 How to reach me dannielshalev@gmail.com
+- 📫 How to reach me dannie.lshalev@gmail.com
 
 <!---
 dannielshalev/dannielshalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
