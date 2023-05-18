@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannielshalev
 - 👀 I’m interested in DevOps and python coding
-- 🌱 I’m currently learning K8
+- 🌱 I’m currently developing python backend app for remote MGT systems
 - 💞️ I’m looking to contribute to open source projects
 - 📫 How to reach me danniel.shalev@gmail.com
 
